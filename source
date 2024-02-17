@@ -489,8 +489,7 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/z2XyqS4/image-from-rawpixel-id-6934839-original.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="Chinese",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
