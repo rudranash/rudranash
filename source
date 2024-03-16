@@ -244,7 +244,7 @@ https://linears-playback.astro.com.my/vsg/417n3EoSvfOFcTqZRKLBECnF8jJWGPjo_GFsRw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="AsHw|n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",202 Astro Vinmeenn
+#EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",202 Astro Vinmeenn
 https://linears-playback.astro.com.my/vsg/417n3EoSvfOFcTqZRKLBECnF8jJWGPjo_GFsRwJgaD7fQ=tPlB/dash-wv/jitp-dashisowm/2105/default_ott.mpd
 
 #EXTINF:-1 ch-number=" " tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="241" ch-number=" " tvg-name="241",241 Astro Thangathirai HD
