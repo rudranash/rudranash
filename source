@@ -2072,6 +2072,13 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/manifest.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpBkvyx/Astro-Super-Sport-EURO-IVP-LAND-586x330.jpg" tvg-id="AstroSupersportPlus" ch-number="809" group-title="Sports",809 Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/manifest.mpd
 
+#EXTINF:-1 tvg-id="AOTGLive1" ch-number="796" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",796 Astro Supersport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
