@@ -465,6 +465,7 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 ####################################### CHINESE ###################################################################################################################
 ###################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/PG9Srnm/pngegg-16.png" group-title="Chinese",INFO!
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
