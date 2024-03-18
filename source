@@ -1930,7 +1930,8 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/BLWJBSG/football-player-football-130d92b5ec4d9864a7fc6e71e4d04a09.png" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/BLWJBSG/football-player-football-130d92b5ec4d9864a7fc6e71e4d04a09.png" group-title="Sports",INFO!
+ 
 
 
 #EXTINF: -1 tvg-id="W-Sport" group-title="Sports" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" ch-number="815" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/WSPORT.png",815 W-Sport
