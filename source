@@ -230,7 +230,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 ###################################### INDIAN #####################################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/BLWJBSG/football-player-football-130d92b5ec4d9864a7fc6e71e4d04a09.png"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/BLWJBSG/football-player-football-130d92b5ec4d9864a7fc6e71e4d04a09.png" group-title="Indian",INFO!
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
