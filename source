@@ -2036,7 +2036,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport2" ch-number="812" tvg-name="Astro SuperSport 2 HD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",812 Astro SuperSport 2 HD
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd  
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ERmxNV0l4WkRFdE9XWmhNaTAwTlRNNUxXRmpPREl0T1Rkak9EZ3lZV0ZoWWpOaCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTI3NTM5MiwiaWF0IjoxNzEwNjcxMzkyfQ.MCV4-s0MNwKMa81GEfWKlOeTU2cNDGvnOmqx5n9aQ3M"}
