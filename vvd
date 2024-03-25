@@ -1,5 +1,8 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/12Lnfj5/Hanu-Man-2024-Poster.jpg", Hanuman 2024 HD
+https://cdn14.vembz.one/hls/h7todrbwamlbu3tf6rvdljxjzjopmssq6eapwxjhsi3q63rpt5bbfjlcwbvq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/d4j1Cwm/Vithaikkaran-2024-Poster.jpg", Vithaikkaran 2024 HD
 https://cdn26.vembz.one/hls/h7todzrwamlbu3tf6rvdl5hvrp33h3ht6glwirz3nvhuqkec6ltsol436c3a/index-v1-a1.m3u8
 
