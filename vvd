@@ -1,5 +1,8 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/GRZDfbQ/Lover-2024-HD.jpg", True Lover 2024 HD
+https://cdn124.vembz.one/hls/h7todbjwamlbu3tf6rvdl47hrcr6gdvo4kmee7qzhv45epa3gnvu3ijcgcqa/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Jnvmnwx/Operation-Valentine-2024.jpg", Operation Valentine 2024 HD 
 https://cdn117.vembz.one/hls/h7todybwamlbu3tf6rvdl4xlrhiguidmagzkzncbcgjasbczyshkhwo7ecca/index-v1-a1.m3u8
 
