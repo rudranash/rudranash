@@ -1,5 +1,8 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Pwz5LbJ/Mix-Up-2024-HD.jpg", MixUp 2024 HD
+https://cdn105.vembz.one/hls/h7todyjwamlbu3tf6rvdlnhhzukncjr5glpty56uge4yax46nghdfr2blo3q/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/ByZwpJf/4-2024-HD-720p.jpg", 4 2024 HD 
 https://cdn96.vembz.one/hls/h7todbbwamlbu3tf6rvdlk7lqsprjp5ivoevveplvycedchsjerf2x4zr2na/index-v1-a1.m3u8
 
