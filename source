@@ -2063,9 +2063,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport" ch-number="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",811 Astro SuperSport HD
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-
-
-  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUSTJNMkV5WWpndE9EWTBPUzAwTURNNUxXRmtNamt0TkdJNU9ESmlaR0UyT1RKayIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTY0Njg4NywiaWF0IjoxNzExMDQyODg3fQ.pc2-nMkxjYeJxXVkrcyCxw9iNUX4AxPCsDrTTH2uQOs"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
