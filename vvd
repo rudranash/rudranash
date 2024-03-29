@@ -1,5 +1,15 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Kmccr71/Joshua-2024-HD.jpg", Joshua 2024 HD
+https://cdn108.vembz.one/hls/h7todkzwamlbu3tf6rvdloxpzpsbdbjgvg2tacbf6mzkiiqxribxtb7h6jra/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/KmkvBC9/Birthmark-2024-HD.jpg", Birthmark 2024 HD
+https://cdn13.vembz.one/hls/h7todjbwamlbu3tf6rvdlo7jrffodal6hulbaktvhxl35gayzowz5dpapvna/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Lpt40Mz/POR-2024-HD.jpg", POR 2024 HD
+https://cdn96.vembz.one/hls/h7todpbwamlbu3tf6rvdll7u2ref72pqz3pkvdbgb4vqhguqjdjr2i3oz74q/index-v1-a1.m3u8
+
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/YLtfHyy/Bramayugam-2024-HD.jpg", Bramayugam 2024 HD 
 https://cdn106.vembz.one/hls/h7todwzwamlbu3tf6rvdlkpj3p32ftdolv3ncf2fdxhjp5m3opu5jpdivr6q/index-v1-a1.m3u8
 
