@@ -2034,14 +2034,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
   
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllqaGtZVFkyWVRVdFlqSmpOUzAwTVRNMkxUZ3daVFl0WWpOaFl6Z3daV05pWTJFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTQ2NzE1OCwiaWF0IjoxNzEwODYzMTU4fQ.BFOmID_UtZSSEH1uH9DclEsI3Sg0BjVX4gygWhbdhLU"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports",803 Astro Arena Bola(Backup)
 #EXTVLCOPT:http-referrer=https://sooka.my
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllqbGlZalUxWVdVdFpHWXpZUzAwWVRFeExUZzRaakl0WkROa01ESmlObUUyTkRSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjUwNDI5MiwiaWF0IjoxNzExOTAwMjkyfQ.GcmLj8WNq3bkl4Es2fDKv4WLMaBDuohKMLPzPUEfOBA
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllqaGtZVFkyWVRVdFlqSmpOUzAwTVRNMkxUZ3daVFl0WWpOaFl6Z3daV05pWTJFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTQ2NzE1OCwiaWF0IjoxNzEwODYzMTU4fQ.BFOmID_UtZSSEH1uH9DclEsI3Sg0BjVX4gygWhbdhLU"}
