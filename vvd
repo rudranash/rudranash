@@ -1,5 +1,8 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/N2Lvq7H/Operation-Laila-2024.jpg", Operation Laila 2024 HD 
+https://cdn120.vembz.one/hls/h7toc6jvamlbu3tf6rvdll7mz4hyz2htwhcjbfrr4jefesyzuggxve3zrb5a/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/kBCNRDt/Rebel-2024-Poster.jpg", Rebel 2024 HD
 https://cdn26.vembz.one/hls/h7toc3zvamlbu3tf6rvdllpwyukjty7osj2wkkq2ms4okn4tmzvvolgly4eq/index-v1-a1.m3u8
 
