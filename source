@@ -234,7 +234,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",202 Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/417n3EoSvfOFcTqZRKLBECnMRwjTnGk5rF9eLnYQUw0EA=fsNw/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/419hsPrLuOlMiNfiakyMfy349eIJq-le7riN28SRNf0JE=73Mo/dash-wv/jitp-dashisowm/2105/default_ott.mpd
   
 #EXTINF:-1 ch-number=" " tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="241" ch-number=" " tvg-name="241",241 Astro Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
