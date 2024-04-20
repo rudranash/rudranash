@@ -1,5 +1,9 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Sr7bXwk/Siren-2024-Poster.jpg", Siren 2024 HD 
+https://cdn10.vidfile.xyz/Www.1TamilYogi.BET%20-%20Siren%20(2024)%20Tamil%20HD%20720p.mkv
+
+
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/5h5nsn1/J-Baby-2024-Poster.jpg", J Baby 2024 HD 
 https://cdn96.vembz.one/hls/h7tockzvamlbu3tf6rvdlmxcz4ch4iy3qspcpss7g4jbs3ixby6p3aoqssnq/index-v1-a1.m3u8
 
@@ -104,9 +108,6 @@ https://cdn48.vembz.one/hls/h7tocbrzamlbu3tf6rvdl6x722yzj6svxijbakxwq3bxmwgi37yv
 
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/SVdmBW5/Ayalaan-2024-Poster.jpg",Ayalaan HD
 https://r3.vidfile.xyz/Www.1TamilYogi.TOP%20-%20Ayalaan%20(2024)%20Tamil%20HD%20480p.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/98hJHCS/Siren-2024-Poster.jpg",Siren PreDVD
-https://cdn5.vidfile.xyz/Www.1TamilYogi.Rent%20-%20Siren%20(2024)%20Tamil%20HQ%20PreDVD%20-%20480p.mkv
 
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/ySSx6Tr/Local-Sarakku-2024-Poster-scaled.jpg",Local Sarakku 2024 HD
 https://cdn108.vembz.one/hls/h7todrrxamlbu3tf6rvdllhl2oplsvdyhcctdlwb327pyewb2l4gaiuwefga/index-v1-a1.m3u8
