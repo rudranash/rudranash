@@ -233,7 +233,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",202 Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/413F37CZRplsKK8HhuWFv3PUU8P39IdMAaccFiaC8JkpI=Csy8/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413F37CZRplsKK8HhuWFv3Pf4jl4K7ZHSKGWBifyaA6WY=xryD/dash-wv/jitp-dashisowm/2105/default_ott.mpd
   
 #EXTINF:-1 ch-number=" " tvg-name="Star Vijay HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="Indian" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
