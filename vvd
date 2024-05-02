@@ -1,7 +1,7 @@
 #######################################################################################################VOD HINDI/TAMIL###############################
 
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/MfQf92q/Ranam-Aram-Thavarel-2024-Poster.jpg", Ranam Aram Thavarel 2024 HD
-http://mediaserv.loginto.me/v1/api/player/media/5cfc6292-3ef7-40b8-aead-ac9e3fd8ca1f/33/hls/HD_AAC-LC_0.m3u8
+http://mediaserv.loginto.me:9001/v1/api/player/media/5cfc6292-3ef7-40b8-aead-ac9e3fd8ca1f/33/hls/HD_AAC-LC_0.m3u8
 
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Sr7bXwk/Siren-2024-Poster.jpg", Siren 2024 HD 
 http://mediaserv.loginto.me:9001/v1/api/player/media/5cfc6292-3ef7-40b8-aead-ac9e3fd8ca1f/35/hls/HD_AAC-LC_0.m3u8
