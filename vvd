@@ -49,6 +49,11 @@ https://no9x-08.ukra1.shop/hls/pdomar2pogm4f4kmlffcdzjaeklbyaei4cw5heaakxv34niri
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/Y7YM0XH2/Lucky-Baskhar.jpg", Lucky Baskhar HD
 https://nox5-02.ukra1.shop/hls/pdomo3zzogm4f4kmlfhsd5l7gx23zornnpkk4au6fgsotmu5g5d3ruj6pkwa/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/84j6YzWY/madraskaaran.jpg", Madraskaaran HD
+https://nox7-04.ukra1.shop/hls/pdomp3pxogm4f4kmlfjcd5zafpddxbo2vkcvs3lbnu5qzpwls6jy4f3slfva/index-v1-a1.m3u8
+
+
+
 #######################################################################################################VOD ENGLISH ###############################
 
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://i.ibb.co/NsP2LJ4/code8.jpg",Code 8 Part II  2024 HD:Science Fiction*Action
