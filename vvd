@@ -63,5 +63,8 @@ https://cflo.short.gy/sorga
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/JW7bJFj4/ten-hours.jpg", Ten Hours CAM
 https://cflo.short.gy/tenhours
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/JW7bJFj4/ten-hours.jpg", Sumo CAM
+http://media.geoalert.org/videos/3955845f-11fa-6150-84e4-8db05ff7fc07/main.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjAuMCBTYWZhcmkvNTM3LjM2fDE3NDU0OTI1Mzk3NjQ1&MediaSourceId=3955845f11fa615084e48db05ff7fc07&VideoCodec=av1,hevc,h264,vp9&AudioCodec=copy&AudioStreamIndex=1&VideoBitrate=397298499&AudioBitrate=131322&AudioSampleRate=44100&MaxFramerate=24&PlaySessionId=46147a0193fa45e79b39daa2185dd066&api_key=6decefee35be48e8a716f1fcfa0ccafa&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&EnableAudioVbrEncoding=true&Tag=9ca1a34ea0c5505f8d2737c80ba3ece8&SegmentContainer=mp4&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=main&h264-audiochannels=2&aac-profile=lc&av1-profile=main&av1-rangetype=SDR,HDR10,HLG&av1-level=19&vp9-rangetype=SDR,HDR10,HLG&hevc-profile=main&hevc-rangetype=SDR,HDR10,HLG&hevc-level=123&hevc-deinterlace=true&h264-rangetype=SDR&h264-deinterla...
+
 #######################################################################################################VOD ENGLISH ###############################
 
