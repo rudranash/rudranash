@@ -20,6 +20,10 @@ https://cflo.short.gy/touristfmly
 
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/rGf6vYJW/Hit-the-3rd-case.jpg", HIT: The Third Case
 https://cflo.short.gy/hit
+
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/MyYrBsr5/Jewel-Thief.jpg", Jewel Thief Tamil
+https://cflo.short.gy/jewel
+
 #######################################################################################################VOD ENGLISH ###############################
 
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://i.ibb.co/pTwypZm/rambo-lastblood.jpg", Rambo LastBlood
