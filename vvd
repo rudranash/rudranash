@@ -24,7 +24,7 @@ https://cflo.short.gy/hit
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/MyYrBsr5/Jewel-Thief.jpg", Jewel Thief Tamil
 https://cflo.short.gy/jewel
 
-#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/tPTTq39j/odela-2.jpg", Jewel Thief Tamil
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/tPTTq39j/odela-2.jpg", Odela-2
 https://cflo.short.gy/odela
 
 #######################################################################################################VOD ENGLISH ###############################
@@ -50,3 +50,5 @@ https://cflo.short.gy/gorge
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://i.ibb.co/DPWPHS0B/ramboIII.jpg", Rambo III
 https://cflo.short.gy/ramboIII
 
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://i.ibb.co/B51h8xL6/workingman.jpg", Working Man
+https://cflo.short.gy/workingman
