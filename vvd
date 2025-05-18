@@ -27,6 +27,9 @@ https://cflo.short.gy/jewel
 #EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/tPTTq39j/odela-2.jpg", Odela-2
 https://cflo.short.gy/odela
 
+#EXTINF:-1 type="movie" group-title="VOD TAMIL" tvg-logo="https://i.ibb.co/V0m4C12w/Devils-Double-Next-Level.jpg", Devil Double next Tamil
+https://cflo.short.gy/ddnext
+
 #######################################################################################################VOD ENGLISH ###############################
 
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://i.ibb.co/pTwypZm/rambo-lastblood.jpg", Rambo LastBlood
